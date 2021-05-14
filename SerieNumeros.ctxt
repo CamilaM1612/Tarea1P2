@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SerieNumeros
+comment1.params=num
+comment1.target=int\ proceso(int)
+comment2.params=n
+comment2.target=int\ Padovan(int)
+numComments=3
